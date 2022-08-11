@@ -1,0 +1,266 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2023-03-25
+Set parameter LazyConstraints to value 1
+Set parameter Seed to value 1
+12
+10
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_8_4_0
+Varname: x_9_4_0
+Varname: x_10_4_0
+Varname: x_11_4_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_8_4_0
+Varname: x_9_4_0
+Varname: x_10_4_0
+Varname: x_11_4_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_8_5_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_8_5_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_4_7_0
+Varname: x_5_7_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_4_7_0
+Varname: x_5_7_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_4_8_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_4_8_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_4_9_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_4_9_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_4_10_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_4_10_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_8_4_0
+Varname: x_9_4_0
+Varname: x_10_4_0
+Varname: x_11_4_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_8_4_0
+Varname: x_9_4_0
+Varname: x_10_4_0
+Varname: x_11_4_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_8_5_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_8_5_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_4_7_0
+Varname: x_5_7_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_4_7_0
+Varname: x_5_7_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_4_8_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_4_8_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_4_9_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_4_9_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_4_10_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_4_10_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Node types
+Type 0
+Node: 1 Type:0
+Node: 4 Type:0
+Node: 8 Type:0
+Node: 9 Type:0
+Node: 10 Type:0
+Node: 11 Type:0
+Type 1
+Node: 2 Type: 1
+Node: 3 Type: 1
+Node: 5 Type: 1
+Node: 6 Type: 1
+Node: 7 Type: 1
+End node types
+Type 0 percentage: 0
+Type 1 percentage: 0
+Set parameter TimeLimit to value 3600
+Gurobi Optimizer version 9.5.1 build v9.5.1rc2 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 176 rows, 132 columns and 941 nonzeros
+Model fingerprint: 0x846137ff
+Variable types: 0 continuous, 132 integer (110 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+02]
+  Objective range  [2e+02, 1e+03]
+  Bounds range     [1e+00, 1e+02]
+  RHS range        [1e+00, 1e+02]
+Found heuristic solution: objective 5009.0000000
+Presolve removed 60 rows and 32 columns
+Presolve time: 0.00s
+Presolved: 116 rows, 100 columns, 535 nonzeros
+Variable types: 0 continuous, 100 integer (78 binary)
+
+Root relaxation: objective 2.853538e+03, 40 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2853.53846    0   17 5009.00000 2853.53846  43.0%     -    0s
+H    0     0                    4279.0000000 2853.53846  33.3%     -    0s
+H    0     0                    3766.0000000 2853.53846  24.2%     -    0s
+H    0     0                    3238.0000000 2853.53846  11.9%     -    0s
+     0     0 2935.00000    0   17 3238.00000 2935.00000  9.36%     -    0s
+H    0     0                    3177.0000000 2935.00000  7.62%     -    0s
+     0     0 2935.00000    0   15 3177.00000 2935.00000  7.62%     -    0s
+     0     0 2935.00000    0   12 3177.00000 2935.00000  7.62%     -    0s
+     0     0 infeasible    0      3177.00000 3177.00000  0.00%     -    0s
+
+Explored 1 nodes (121 simplex iterations) in 0.02 seconds (0.01 work units)
+Thread count was 4 (of 4 available processors)
+
+Solution count 5: 3177 3238 3766 ... 5009
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.177000000000e+03, best bound 3.177000000000e+03, gap 0.0000%
+Running Time in microseconds: 17729
+Begin Solution
+ -x_4_7_0
+ -x_5_6_0
+ -x_6_11_0
+ -x_7_9_0
+ -x_8_5_0
+ -x_9_8_0
+ -x_11_4_0
+ -x_10_11_1
+ -x_11_10_1
+End of solution

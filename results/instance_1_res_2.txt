@@ -1,0 +1,134 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2023-03-25
+Set parameter LazyConstraints to value 1
+Set parameter Seed to value 1
+12
+10
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_7_3_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_7_3_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_3_6_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_3_6_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_7_3_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_7_3_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_7_4_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_7_5_0
+Varname: x_3_6_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Varname: x_3_6_0
+Varname: x_4_6_0
+Varname: x_5_6_0
+Varname: x_7_6_0
+Node types
+Type 0
+Node: 1 Type:0
+Node: 4 Type:0
+Type 1
+Node: 2 Type: 1
+Node: 3 Type: 1
+Node: 5 Type: 1
+Node: 6 Type: 1
+Node: 7 Type: 1
+End node types
+Type 0 percentage: 0
+Type 1 percentage: 0
+Set parameter TimeLimit to value 3600
+Gurobi Optimizer version 9.5.1 build v9.5.1rc2 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 78 rows, 56 columns and 332 nonzeros
+Model fingerprint: 0x6ec37237
+Variable types: 0 continuous, 56 integer (42 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+02]
+  Objective range  [8e+01, 1e+03]
+  Bounds range     [1e+00, 1e+02]
+  RHS range        [1e+00, 1e+02]
+Found heuristic solution: objective 4145.0000000
+Presolve removed 36 rows and 18 columns
+Presolve time: 0.00s
+Presolved: 42 rows, 38 columns, 164 nonzeros
+Variable types: 0 continuous, 38 integer (24 binary)
+
+Root relaxation: objective 1.769930e+03, 19 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 1769.92982    0    8 4145.00000 1769.92982  57.3%     -    0s
+H    0     0                    3209.0000000 1769.92982  44.8%     -    0s
+H    0     0                    3137.0000000 1769.92982  43.6%     -    0s
+     0     0 2484.00000    0   10 3137.00000 2484.00000  20.8%     -    0s
+H    0     0                    2484.0000000 2484.00000  0.00%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 1
+  Implied bound: 4
+  MIR: 2
+  RLT: 1
+
+Explored 1 nodes (27 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 4 (of 4 available processors)
+
+Solution count 4: 2484 3137 3209 4145 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.484000000000e+03, best bound 2.484000000000e+03, gap 0.0000%
+Running Time in microseconds: 9327
+Begin Solution
+ -x_3_5_0
+ -x_5_6_0
+ -x_6_7_0
+ -x_7_3_0
+ -x_4_7_1
+ -x_7_4_1
+End of solution

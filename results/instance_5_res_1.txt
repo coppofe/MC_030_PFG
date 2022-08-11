@@ -1,0 +1,113 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2023-03-25
+Set parameter LazyConstraints to value 1
+Set parameter Seed to value 1
+12
+10
+Varname: x_6_2_0
+Varname: x_6_2_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_2_5_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_2_5_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_6_2_0
+Varname: x_6_2_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_4_3_0
+Varname: x_5_3_0
+Varname: x_6_3_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_3_4_0
+Varname: x_5_4_0
+Varname: x_6_4_0
+Varname: x_2_5_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Varname: x_2_5_0
+Varname: x_3_5_0
+Varname: x_4_5_0
+Varname: x_6_5_0
+Node types
+Type 0
+Node: 1 Type:0
+Node: 4 Type:0
+Type 1
+Node: 2 Type: 1
+Node: 3 Type: 1
+Node: 5 Type: 1
+Node: 6 Type: 1
+End node types
+Type 0 percentage: 0
+Type 1 percentage: 0
+Set parameter TimeLimit to value 3600
+Gurobi Optimizer version 9.5.1 build v9.5.1rc2 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 58 rows, 42 columns and 232 nonzeros
+Model fingerprint: 0x0b06f916
+Variable types: 0 continuous, 42 integer (30 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+02]
+  Objective range  [6e+01, 8e+02]
+  Bounds range     [1e+00, 1e+02]
+  RHS range        [1e+00, 1e+02]
+Found heuristic solution: objective 4848.0000000
+Presolve removed 27 rows and 12 columns
+Presolve time: 0.00s
+Presolved: 31 rows, 30 columns, 113 nonzeros
+Variable types: 0 continuous, 30 integer (18 binary)
+
+Root relaxation: objective 2.980796e+03, 14 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2980.79630    0    4 4848.00000 2980.79630  38.5%     -    0s
+H    0     0                    3891.0000000 2980.79630  23.4%     -    0s
+H    0     0                    3295.0000000 2980.79630  9.54%     -    0s
+     0     0     cutoff    0      3295.00000 3295.00000  0.00%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 1
+  Implied bound: 3
+  MIR: 1
+  RLT: 2
+  Relax-and-lift: 1
+
+Explored 1 nodes (14 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 4 (of 4 available processors)
+
+Solution count 3: 3295 3891 4848 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.295000000000e+03, best bound 3.295000000000e+03, gap 0.0000%
+Running Time in microseconds: 2825
+Begin Solution
+ -x_3_5_0
+ -x_4_6_0
+ -x_5_4_0
+ -x_6_3_0
+ -x_2_6_1
+ -x_6_2_1
+End of solution

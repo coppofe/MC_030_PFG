@@ -1,0 +1,22 @@
+## Introduction
+In this repo you will find an implementation of a formulation of HVRP by Golden et al (1984), along with the program used to generate random euclidean graphs for use with the implementation.
+
+## Requirements:
+mygraphlib by F. K. Miyazawa -> Helper lib for use with optimization problems with graphs, available in https://www.ic.unicamp.br/~fkm/courses.html
+
+Gurobi Optimizer -> Optimization software by Gurobi LLC. Available in https://www.gurobi.com
+
+Lemon -> Helper library which provides data structures for graph problems. Available in http://lemon.cs.elte.hu/trac/lemon
+
+## Contents
+src/ -> Source code for the implementation and the generator, for use with F.K. Miyazawa's optimization_v2 src/ directory
+
+instances/ -> contains the graph instances used in testing and experimentation
+
+results/ -> Contains the outputs for the program when run on instances 0 through 10
+
+## How to use
+Go through the instalation steps detailed in the optimization_v2 README
+Copy the files in src/ to the optimization_v2/src directory and modify the Makefile _EX variable to include formulation_golden.cpp and generate_random_euclidian_digraph.cpp.
+
+Compile and run as usual

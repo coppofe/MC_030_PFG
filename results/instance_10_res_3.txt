@@ -1,0 +1,480 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2023-03-25
+Set parameter LazyConstraints to value 1
+Set parameter Seed to value 1
+12
+10
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_12_5_0
+Varname: x_13_5_0
+Varname: x_14_5_0
+Varname: x_15_5_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_12_5_0
+Varname: x_13_5_0
+Varname: x_14_5_0
+Varname: x_15_5_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_12_6_0
+Varname: x_13_6_0
+Varname: x_14_6_0
+Varname: x_15_6_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_12_6_0
+Varname: x_13_6_0
+Varname: x_14_6_0
+Varname: x_15_6_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_12_7_0
+Varname: x_13_7_0
+Varname: x_14_7_0
+Varname: x_15_7_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_12_7_0
+Varname: x_13_7_0
+Varname: x_14_7_0
+Varname: x_15_7_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_12_8_0
+Varname: x_13_8_0
+Varname: x_14_8_0
+Varname: x_15_8_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_12_8_0
+Varname: x_13_8_0
+Varname: x_14_8_0
+Varname: x_15_8_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_12_9_0
+Varname: x_13_9_0
+Varname: x_14_9_0
+Varname: x_15_9_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_12_9_0
+Varname: x_13_9_0
+Varname: x_14_9_0
+Varname: x_15_9_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_12_10_0
+Varname: x_13_10_0
+Varname: x_14_10_0
+Varname: x_15_10_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_12_10_0
+Varname: x_13_10_0
+Varname: x_14_10_0
+Varname: x_15_10_0
+Varname: x_5_11_0
+Varname: x_6_11_0
+Varname: x_7_11_0
+Varname: x_8_11_0
+Varname: x_9_11_0
+Varname: x_10_11_0
+Varname: x_12_11_0
+Varname: x_13_11_0
+Varname: x_14_11_0
+Varname: x_15_11_0
+Varname: x_5_11_0
+Varname: x_6_11_0
+Varname: x_7_11_0
+Varname: x_8_11_0
+Varname: x_9_11_0
+Varname: x_10_11_0
+Varname: x_12_11_0
+Varname: x_13_11_0
+Varname: x_14_11_0
+Varname: x_15_11_0
+Varname: x_5_12_0
+Varname: x_6_12_0
+Varname: x_7_12_0
+Varname: x_8_12_0
+Varname: x_9_12_0
+Varname: x_10_12_0
+Varname: x_11_12_0
+Varname: x_13_12_0
+Varname: x_14_12_0
+Varname: x_15_12_0
+Varname: x_5_12_0
+Varname: x_6_12_0
+Varname: x_7_12_0
+Varname: x_8_12_0
+Varname: x_9_12_0
+Varname: x_10_12_0
+Varname: x_11_12_0
+Varname: x_13_12_0
+Varname: x_14_12_0
+Varname: x_15_12_0
+Varname: x_5_13_0
+Varname: x_6_13_0
+Varname: x_7_13_0
+Varname: x_8_13_0
+Varname: x_9_13_0
+Varname: x_10_13_0
+Varname: x_11_13_0
+Varname: x_12_13_0
+Varname: x_14_13_0
+Varname: x_15_13_0
+Varname: x_5_13_0
+Varname: x_6_13_0
+Varname: x_7_13_0
+Varname: x_8_13_0
+Varname: x_9_13_0
+Varname: x_10_13_0
+Varname: x_11_13_0
+Varname: x_12_13_0
+Varname: x_14_13_0
+Varname: x_15_13_0
+Varname: x_5_14_0
+Varname: x_6_14_0
+Varname: x_7_14_0
+Varname: x_8_14_0
+Varname: x_9_14_0
+Varname: x_10_14_0
+Varname: x_11_14_0
+Varname: x_12_14_0
+Varname: x_13_14_0
+Varname: x_15_14_0
+Varname: x_5_14_0
+Varname: x_6_14_0
+Varname: x_7_14_0
+Varname: x_8_14_0
+Varname: x_9_14_0
+Varname: x_10_14_0
+Varname: x_11_14_0
+Varname: x_12_14_0
+Varname: x_13_14_0
+Varname: x_15_14_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_12_5_0
+Varname: x_13_5_0
+Varname: x_14_5_0
+Varname: x_15_5_0
+Varname: x_9_5_0
+Varname: x_10_5_0
+Varname: x_11_5_0
+Varname: x_12_5_0
+Varname: x_13_5_0
+Varname: x_14_5_0
+Varname: x_15_5_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_12_6_0
+Varname: x_13_6_0
+Varname: x_14_6_0
+Varname: x_15_6_0
+Varname: x_7_6_0
+Varname: x_8_6_0
+Varname: x_9_6_0
+Varname: x_10_6_0
+Varname: x_11_6_0
+Varname: x_12_6_0
+Varname: x_13_6_0
+Varname: x_14_6_0
+Varname: x_15_6_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_12_7_0
+Varname: x_13_7_0
+Varname: x_14_7_0
+Varname: x_15_7_0
+Varname: x_6_7_0
+Varname: x_8_7_0
+Varname: x_9_7_0
+Varname: x_10_7_0
+Varname: x_11_7_0
+Varname: x_12_7_0
+Varname: x_13_7_0
+Varname: x_14_7_0
+Varname: x_15_7_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_12_8_0
+Varname: x_13_8_0
+Varname: x_14_8_0
+Varname: x_15_8_0
+Varname: x_5_8_0
+Varname: x_6_8_0
+Varname: x_7_8_0
+Varname: x_9_8_0
+Varname: x_10_8_0
+Varname: x_11_8_0
+Varname: x_12_8_0
+Varname: x_13_8_0
+Varname: x_14_8_0
+Varname: x_15_8_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_12_9_0
+Varname: x_13_9_0
+Varname: x_14_9_0
+Varname: x_15_9_0
+Varname: x_5_9_0
+Varname: x_6_9_0
+Varname: x_7_9_0
+Varname: x_8_9_0
+Varname: x_10_9_0
+Varname: x_11_9_0
+Varname: x_12_9_0
+Varname: x_13_9_0
+Varname: x_14_9_0
+Varname: x_15_9_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_12_10_0
+Varname: x_13_10_0
+Varname: x_14_10_0
+Varname: x_15_10_0
+Varname: x_5_10_0
+Varname: x_6_10_0
+Varname: x_7_10_0
+Varname: x_8_10_0
+Varname: x_9_10_0
+Varname: x_11_10_0
+Varname: x_12_10_0
+Varname: x_13_10_0
+Varname: x_14_10_0
+Varname: x_15_10_0
+Varname: x_5_11_0
+Varname: x_6_11_0
+Varname: x_7_11_0
+Varname: x_8_11_0
+Varname: x_9_11_0
+Varname: x_10_11_0
+Varname: x_12_11_0
+Varname: x_13_11_0
+Varname: x_14_11_0
+Varname: x_15_11_0
+Varname: x_5_11_0
+Varname: x_6_11_0
+Varname: x_7_11_0
+Varname: x_8_11_0
+Varname: x_9_11_0
+Varname: x_10_11_0
+Varname: x_12_11_0
+Varname: x_13_11_0
+Varname: x_14_11_0
+Varname: x_15_11_0
+Varname: x_5_12_0
+Varname: x_6_12_0
+Varname: x_7_12_0
+Varname: x_8_12_0
+Varname: x_9_12_0
+Varname: x_10_12_0
+Varname: x_11_12_0
+Varname: x_13_12_0
+Varname: x_14_12_0
+Varname: x_15_12_0
+Varname: x_5_12_0
+Varname: x_6_12_0
+Varname: x_7_12_0
+Varname: x_8_12_0
+Varname: x_9_12_0
+Varname: x_10_12_0
+Varname: x_11_12_0
+Varname: x_13_12_0
+Varname: x_14_12_0
+Varname: x_15_12_0
+Varname: x_5_13_0
+Varname: x_6_13_0
+Varname: x_7_13_0
+Varname: x_8_13_0
+Varname: x_9_13_0
+Varname: x_10_13_0
+Varname: x_11_13_0
+Varname: x_12_13_0
+Varname: x_14_13_0
+Varname: x_15_13_0
+Varname: x_5_13_0
+Varname: x_6_13_0
+Varname: x_7_13_0
+Varname: x_8_13_0
+Varname: x_9_13_0
+Varname: x_10_13_0
+Varname: x_11_13_0
+Varname: x_12_13_0
+Varname: x_14_13_0
+Varname: x_15_13_0
+Varname: x_5_14_0
+Varname: x_6_14_0
+Varname: x_7_14_0
+Varname: x_8_14_0
+Varname: x_9_14_0
+Varname: x_10_14_0
+Varname: x_11_14_0
+Varname: x_12_14_0
+Varname: x_13_14_0
+Varname: x_15_14_0
+Varname: x_5_14_0
+Varname: x_6_14_0
+Varname: x_7_14_0
+Varname: x_8_14_0
+Varname: x_9_14_0
+Varname: x_10_14_0
+Varname: x_11_14_0
+Varname: x_12_14_0
+Varname: x_13_14_0
+Varname: x_15_14_0
+Node types
+Type 0
+Node: 1 Type:0
+Node: 4 Type:0
+Node: 8 Type:0
+Node: 9 Type:0
+Node: 10 Type:0
+Node: 11 Type:0
+Node: 13 Type:0
+Type 1
+Node: 2 Type: 1
+Node: 3 Type: 1
+Node: 5 Type: 1
+Node: 6 Type: 1
+Node: 7 Type: 1
+Node: 12 Type: 1
+Node: 14 Type: 1
+Node: 15 Type: 1
+End node types
+Type 0 percentage: 0
+Type 1 percentage: 0
+Set parameter TimeLimit to value 3600
+Gurobi Optimizer version 9.5.1 build v9.5.1rc2 (linux64)
+Thread count: 2 physical cores, 4 logical processors, using up to 4 threads
+Optimize a model with 333 rows, 240 columns and 1851 nonzeros
+Model fingerprint: 0xc34dcb85
+Variable types: 0 continuous, 240 integer (210 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+02]
+  Objective range  [8e+01, 1e+03]
+  Bounds range     [1e+00, 1e+02]
+  RHS range        [1e+00, 1e+02]
+Found heuristic solution: objective 7460.0000000
+Presolve removed 116 rows and 70 columns
+Presolve time: 0.00s
+Presolved: 217 rows, 170 columns, 1015 nonzeros
+Variable types: 0 continuous, 170 integer (140 binary)
+
+Root relaxation: objective 2.250667e+03, 68 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 2250.66667    0    8 7460.00000 2250.66667  69.8%     -    0s
+H    0     0                    5573.0000000 2250.66667  59.6%     -    0s
+H    0     0                    5291.0000000 2250.66667  57.5%     -    0s
+     0     0 2561.00000    0   16 5291.00000 2561.00000  51.6%     -    0s
+H    0     0                    3763.0000000 2561.00000  31.9%     -    0s
+H    0     0                    3433.0000000 2561.00000  25.4%     -    0s
+     0     0 2561.00000    0   25 3433.00000 2561.00000  25.4%     -    0s
+     0     0 2561.00000    0   21 3433.00000 2561.00000  25.4%     -    0s
+     0     0 2561.00000    0   26 3433.00000 2561.00000  25.4%     -    0s
+     0     0 2561.00000    0   21 3433.00000 2561.00000  25.4%     -    0s
+     0     0 2561.00000    0   21 3433.00000 2561.00000  25.4%     -    0s
+     0     2 2565.33987    0   21 3433.00000 2565.33987  25.3%     -    0s
+H  153   129                    3185.0000000 2591.59040  18.6%   5.4    0s
+*  190   131              11    3016.0000000 2593.00000  14.0%   5.9    0s
+H  200   131                    2975.0000000 2593.00000  12.8%   5.8    0s
+*  211   115               8    2909.0000000 2594.84314  10.8%   6.0    0s
+*  234   115               5    2809.0000000 2594.84314  7.62%   6.2    0s
+*  263    88              10    2775.0000000 2596.72288  6.42%   6.1    0s
+
+Cutting planes:
+  Learned: 6
+  Gomory: 2
+  Implied bound: 9
+  MIR: 8
+  StrongCG: 1
+  Inf proof: 2
+  RLT: 7
+  Relax-and-lift: 8
+
+Explored 353 nodes (2204 simplex iterations) in 0.09 seconds (0.08 work units)
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: 2775 2809 2909 ... 5573
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.775000000000e+03, best bound 2.775000000000e+03, gap 0.0000%
+Running Time in microseconds: 93135
+Begin Solution
+ -x_6_11_0
+ -x_7_10_0
+ -x_8_15_0
+ -x_9_8_0
+ -x_10_12_0
+ -x_11_14_0
+ -x_12_9_0
+ -x_13_7_0
+ -x_14_13_0
+ -x_15_6_0
+ -x_5_15_1
+ -x_15_5_1
+End of solution
